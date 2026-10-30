@@ -1,0 +1,14 @@
+{
+  "name": "RG Secure Solutions",
+  "short_name": "RG Secure",
+  "description": "Sécurité • Réseaux • Solutions IT — Innover • Connecter • Protéger",
+  "lang": "fr",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#F5F7FA",
+  "theme_color": "#1B2F5E",
+  "icons": [
+    { "src": "assets/favicon/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/favicon/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

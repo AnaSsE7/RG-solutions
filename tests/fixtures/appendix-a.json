@@ -1,0 +1,704 @@
+{
+  "reseaux": {
+    "n": 1,
+    "title": "Réseaux informatiques",
+    "page": 2,
+    "tagline": "Une infrastructure stable pour une connexion fiable et performante.",
+    "features": [
+      "Câblage structuré",
+      "Réseau sécurisé",
+      "Connexion stable",
+      "Matériel professionnel",
+      "Installation & maintenance"
+    ],
+    "presentation": "Optimisez la connectivité de vos locaux grâce à des solutions de réseaux informatiques fiables et performantes. Nous assurons la vente, l'installation, la configuration et la maintenance d'infrastructures réseau pour les maisons, commerces, cafés, écoles, bureaux, hôtels et entreprises.",
+    "solutions": [
+      "Câblage réseau RJ45 et baie de brassage",
+      "Installation de switches, routeurs et points d'accès",
+      "Réseaux filaires et sans fil",
+      "Solutions PoE pour caméras, téléphones IP et bornes Wi-Fi",
+      "Configuration IP, VLAN et adressage réseau",
+      "Partage Internet et extension de couverture",
+      "Interconnexion des équipements informatiques",
+      "Réseau pour bureaux, écoles, commerces et cafés",
+      "Organisation et sécurisation de l'infrastructure",
+      "Préparation pour vidéosurveillance, téléphonie IP et hotspot"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Conception de l'architecture réseau",
+      "Tirage et organisation des câbles",
+      "Installation des prises, switches et routeurs",
+      "Configuration des équipements réseau",
+      "Tests de connectivité et de débit",
+      "Configuration Wi-Fi et accès Internet",
+      "Optimisation de la stabilité du réseau",
+      "Maintenance préventive et dépannage",
+      "Assistance technique et évolution du réseau"
+    ],
+    "avantages": [
+      "Connexion stable et rapide",
+      "Réduction des coupures et pertes réseau",
+      "Meilleure organisation des équipements",
+      "Infrastructure adaptée à vos besoins",
+      "Réseau évolutif et facile à maintenir",
+      "Base solide pour caméras, Wi-Fi et téléphonie IP"
+    ],
+    "badges": [
+      "Performance et stabilité",
+      "Câblage soigné",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "wifi-hotspot": {
+    "n": 2,
+    "title": "Wi-Fi & Hotspot",
+    "page": 3,
+    "tagline": "Une couverture Wi-Fi performante pour vos clients et vos équipes.",
+    "features": [
+      "Couverture optimale",
+      "Hotspot client",
+      "Connexion stable",
+      "Gestion du débit",
+      "Installation & maintenance"
+    ],
+    "presentation": "Optimisez la connectivité de vos locaux grâce à des solutions Wi-Fi et hotspot fiables et performantes. Nous assurons la vente, l'installation, la configuration et la maintenance de réseaux sans fil pour les cafés, hôtels, écoles, bureaux, commerces et entreprises.",
+    "solutions": [
+      "Points d'accès plafond et muraux",
+      "Réseau Wi-Fi pour cafés, hôtels, écoles et bureaux",
+      "Hotspot client avec portail d'authentification",
+      "Extension de couverture et suppression des zones mortes",
+      "Contrôle et partage de la bande passante",
+      "Réseaux invités et réseaux internes séparés",
+      "Configuration SSID, sécurité et accès Internet",
+      "Solutions MikroTik, routeurs et bornes Wi-Fi",
+      "Supervision et optimisation des performances",
+      "Intégration avec caméras, POS et téléphonie IP"
+    ],
+    "prestations": [
+      "Étude de couverture sur site",
+      "Choix des bornes et de l'architecture",
+      "Installation et câblage des points d'accès",
+      "Configuration routeur, AP et hotspot",
+      "Sécurisation du réseau Wi-Fi",
+      "Paramétrage du portail captif",
+      "Tests de stabilité et de débit",
+      "Optimisation des canaux et de la couverture",
+      "Maintenance préventive et dépannage",
+      "Assistance et évolution du réseau"
+    ],
+    "avantages": [
+      "Connexion rapide et stable",
+      "Meilleure expérience client",
+      "Couverture homogène des espaces",
+      "Gestion des utilisateurs et du débit",
+      "Réseau sécurisé et évolutif",
+      "Solution adaptée à votre activité"
+    ],
+    "badges": [
+      "Couverture & stabilité",
+      "Hotspot professionnel",
+      "Expertise réseau",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "cameras": {
+    "n": 3,
+    "title": "Caméras de surveillance",
+    "page": 4,
+    "tagline": "Gardez le contrôle, où que vous soyez.",
+    "features": [
+      "Sécurité renforcée",
+      "Accès à distance",
+      "Vision nocturne",
+      "Détection intelligente",
+      "Installation & maintenance"
+    ],
+    "presentation": "Protégez vos locaux, vos équipements et vos collaborateurs grâce à des solutions de vidéosurveillance adaptées à chaque besoin. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes de surveillance pour les maisons, commerces, cafés, écoles, bureaux, résidences et entreprises.",
+    "solutions": [
+      "Caméras IP et analogiques",
+      "Caméras intérieures et extérieures",
+      "Caméras fixes, motorisées et PTZ",
+      "Vision nocturne et détection intelligente",
+      "Caméras solaires, Wi-Fi et 4G",
+      "Caméras de lecture de plaques",
+      "Enregistreurs NVR, DVR et XVR",
+      "Accès depuis téléphone, tablette ou ordinateur",
+      "Notifications en cas de mouvement ou d'intrusion",
+      "Enregistrement continu ou sur détection"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix des caméras et de l'enregistreur",
+      "Installation et câblage",
+      "Configuration réseau",
+      "Configuration de l'application mobile",
+      "Création des utilisateurs et des autorisations",
+      "Réglage de la qualité d'image",
+      "Configuration des notifications",
+      "Test complet du système",
+      "Maintenance préventive et dépannage"
+    ],
+    "avantages": [
+      "Surveillance 24 h/24",
+      "Visualisation en direct à distance",
+      "Enregistrement et consultation des événements",
+      "Réduction des risques de vol et d'intrusion",
+      "Meilleur contrôle des accès et des activités",
+      "Solutions évolutives selon votre budget"
+    ],
+    "badges": [
+      "Sécurité et fiabilité",
+      "Matériel de qualité",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "alarme": {
+    "n": 4,
+    "title": "Systèmes d'alarme",
+    "page": 5,
+    "tagline": "Sécurisez vos locaux contre l'intrusion, où que vous soyez.",
+    "features": [
+      "Protection intrusion",
+      "Alerte immédiate",
+      "Contrôle à distance",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Protégez vos locaux, vos équipements et vos accès grâce à des systèmes d'alarme fiables et performants. Nous assurons la vente, l'installation, la configuration et la maintenance de solutions anti-intrusion pour les maisons, commerces, bureaux, écoles et entreprises.",
+    "solutions": [
+      "Centrales d'alarme filaires et sans fil",
+      "Détecteurs de mouvement",
+      "Contacts d'ouverture pour portes et fenêtres",
+      "Sirènes intérieures et extérieures",
+      "Claviers, télécommandes et badges",
+      "Application mobile et notifications",
+      "Détection d'intrusion et alertes en temps réel",
+      "Création de zones et scénarios d'armement",
+      "Intégration avec vidéosurveillance et contrôle d'accès",
+      "Maintenance et évolution du système"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix des équipements et de l'architecture",
+      "Installation des détecteurs et de la centrale",
+      "Configuration des zones et des utilisateurs",
+      "Paramétrage des alertes et de l'application mobile",
+      "Tests d'armement et de déclenchement",
+      "Réglages selon l'environnement",
+      "Maintenance préventive et dépannage",
+      "Ajout ou remplacement d'accessoires",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Protection renforcée contre l'intrusion",
+      "Alerte rapide en cas d'événement",
+      "Surveillance et contrôle à distance",
+      "Dissuasion efficace",
+      "Système évolutif selon vos besoins",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Protection & fiabilité",
+      "Installation soignée",
+      "Expertise sécurité",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "controle-acces": {
+    "n": 5,
+    "title": "Contrôle d'accès",
+    "page": 6,
+    "tagline": "Gérez et sécurisez l'accès à vos locaux avec précision.",
+    "features": [
+      "Accès sécurisé",
+      "Badge & code",
+      "Gestion utilisateurs",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Contrôlez les accès à vos locaux grâce à des solutions fiables et adaptées à votre activité. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes de contrôle d'accès pour les bureaux, commerces, écoles, immeubles et entreprises.",
+    "solutions": [
+      "Lecteurs badge, empreinte et reconnaissance faciale",
+      "Digicodes et claviers d'accès",
+      "Gâches électriques et ventouses",
+      "Contrôle d'accès pour portes, portails et bureaux",
+      "Gestion des utilisateurs et des autorisations",
+      "Historique des accès et événements",
+      "Lecteurs UHF et solutions longue distance",
+      "Intégration avec interphone, vidéophone et alarme",
+      "Solutions pour immeubles, écoles et entreprises",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix du lecteur et du système",
+      "Installation des lecteurs et verrouillages",
+      "Configuration des utilisateurs et des droits",
+      "Paramétrage des horaires et accès",
+      "Tests de fonctionnement et de sécurité",
+      "Organisation du câblage et finition propre",
+      "Maintenance préventive et dépannage",
+      "Ajout ou remplacement d'accessoires",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Meilleur contrôle des entrées et sorties",
+      "Sécurisation des accès sensibles",
+      "Gestion simple des utilisateurs",
+      "Historique clair des événements",
+      "Solution évolutive selon vos besoins",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Sécurité & contrôle",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "pointeuses": {
+    "n": 6,
+    "title": "Pointeuses",
+    "page": 7,
+    "tagline": "Simplifiez le suivi des présences et des horaires.",
+    "features": [
+      "Pointage précis",
+      "Badge & empreinte",
+      "Gestion RH",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Optimisez le suivi des présences grâce à des solutions de pointage fiables et adaptées à votre activité. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes de pointage pour les bureaux, écoles, commerces et entreprises.",
+    "solutions": [
+      "Pointeuses à badge, empreinte et reconnaissance faciale",
+      "Gestion des horaires, retards et absences",
+      "Logiciel de présence et rapports",
+      "Contrôle d'accès simple intégré",
+      "Pointage en réseau et centralisation des données",
+      "Écrans couleur et interfaces intuitives",
+      "Export des données pour la gestion RH",
+      "Solutions pour PME, écoles et entreprises",
+      "Configuration utilisateurs et départements",
+      "Maintenance et évolution du système"
+    ],
+    "prestations": [
+      "Étude et inspection du besoin",
+      "Choix de la pointeuse et de l'architecture",
+      "Installation et câblage",
+      "Configuration des utilisateurs et horaires",
+      "Paramétrage des droits et services",
+      "Tests de pointage et de synchronisation",
+      "Formation de base à l'utilisation",
+      "Maintenance préventive et dépannage",
+      "Ajout de nouveaux utilisateurs",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Suivi précis des présences",
+      "Réduction des erreurs manuelles",
+      "Meilleure organisation RH",
+      "Consultation simple des rapports",
+      "Solution évolutive selon vos besoins",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Présence & fiabilité",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "interphones": {
+    "n": 7,
+    "title": "Interphones & Vidéophones",
+    "page": 8,
+    "tagline": "Communiquez et contrôlez l'accès à distance.",
+    "features": [
+      "Appel visiteur",
+      "Vidéo & audio",
+      "Accès à distance",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Améliorez la communication et le contrôle d'accès de vos locaux grâce à des solutions d'interphonie et de vidéophonie fiables. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes pour les maisons, immeubles, bureaux, écoles et entreprises.",
+    "solutions": [
+      "Interphones audio et vidéophones",
+      "Platines de rue et moniteurs intérieurs",
+      "Ouverture de porte à distance",
+      "Connexion avec gâche et ventouse",
+      "Appel sur écran et smartphone",
+      "Solutions pour maisons, immeubles et bureaux",
+      "Plusieurs écrans et plusieurs postes",
+      "Intégration avec contrôle d'accès",
+      "Qualité d'image et communication claire",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix du matériel adapté",
+      "Installation et câblage",
+      "Configuration des moniteurs et de la platine",
+      "Paramétrage d'ouverture de porte",
+      "Tests audio, vidéo et appel",
+      "Organisation du câblage et finition propre",
+      "Maintenance préventive et dépannage",
+      "Ajout ou remplacement d'équipements",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Communication claire avec les visiteurs",
+      "Meilleur contrôle des accès",
+      "Ouverture simple et rapide",
+      "Surveillance visuelle à l'entrée",
+      "Solution pratique et évolutive",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Communication & sécurité",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "affichage-multimedia": {
+    "n": 8,
+    "title": "Affichage & Multimédia",
+    "page": 9,
+    "tagline": "Des solutions visuelles pour informer, présenter et diffuser efficacement.",
+    "features": [
+      "Affichage dynamique",
+      "Multi-écrans",
+      "Distribution HDMI",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Valorisez vos espaces grâce à des solutions d'affichage et de multimédia adaptées à vos besoins. Nous assurons la vente, l'installation, la configuration et la maintenance d'écrans, systèmes de diffusion et équipements audiovisuels pour les commerces, cafés, écoles, bureaux et entreprises.",
+    "solutions": [
+      "Installation de TV, écrans et supports",
+      "Affichage dynamique pour commerces et entreprises",
+      "Distribution HDMI et diffusion multi-écrans",
+      "Splitters, extenders et matrices HDMI",
+      "Équipements pour salles de réunion et d'accueil",
+      "Panneaux LED et solutions de présentation",
+      "Diffusion d'une source vers plusieurs écrans",
+      "Intégration audiovisuelle propre et organisée",
+      "Solutions pour publicité, information et présentation",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude de l'emplacement et des besoins",
+      "Choix des écrans et accessoires",
+      "Installation murale et câblage",
+      "Configuration des équipements multimédia",
+      "Mise en place de splitters et extenders HDMI",
+      "Tests d'image et de diffusion",
+      "Organisation du câblage et finition propre",
+      "Réglages et optimisation de l'affichage",
+      "Maintenance préventive et dépannage",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Présentation moderne et professionnelle",
+      "Diffusion claire sur un ou plusieurs écrans",
+      "Installation adaptée à votre espace",
+      "Meilleure communication visuelle",
+      "Système évolutif et facile à gérer",
+      "Matériel fiable et durable"
+    ],
+    "badges": [
+      "Visibilité & impact",
+      "Installation soignée",
+      "Expertise multimédia",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "sonorisation": {
+    "n": 9,
+    "title": "Sonorisation",
+    "page": 10,
+    "tagline": "Une diffusion sonore claire et adaptée à chaque espace.",
+    "features": [
+      "Son clair",
+      "Diffusion uniforme",
+      "Matériel fiable",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Améliorez la diffusion sonore de vos espaces grâce à des solutions de sonorisation fiables et bien adaptées. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes audio pour les cafés, écoles, bureaux, commerces, salles d'attente et entreprises.",
+    "solutions": [
+      "Haut-parleurs plafonniers et muraux",
+      "Amplificateurs et systèmes 100V",
+      "Sonorisation pour cafés, écoles et bureaux",
+      "Musique d'ambiance et annonces vocales",
+      "Microphones et sources audio",
+      "Répartition audio par zones",
+      "Solutions pour salles de réunion et espaces publics",
+      "Câblage et intégration des équipements",
+      "Réglages pour une écoute claire et équilibrée",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix des haut-parleurs et de l'amplificateur",
+      "Installation et câblage audio",
+      "Réglage du volume et des zones",
+      "Connexion des sources audio",
+      "Tests de couverture et de qualité sonore",
+      "Optimisation de la diffusion",
+      "Maintenance préventive et dépannage",
+      "Remplacement ou ajout d'équipements",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Son clair et homogène",
+      "Meilleure ambiance dans vos espaces",
+      "Annonces audibles et efficaces",
+      "Installation adaptée à votre activité",
+      "Système évolutif et facile à utiliser",
+      "Matériel fiable et durable"
+    ],
+    "badges": [
+      "Qualité sonore",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "portails": {
+    "n": 10,
+    "title": "Portes & Portails automatiques",
+    "page": 11,
+    "tagline": "Automatisez l'ouverture de vos accès en toute sécurité.",
+    "features": [
+      "Ouverture automatique",
+      "Sécurité d'accès",
+      "Commandes à distance",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Facilitez et sécurisez l'accès à vos espaces grâce à des solutions d'automatisme fiables et adaptées. Nous assurons la vente, l'installation, la configuration et la maintenance de portes et portails automatiques pour les maisons, immeubles, bureaux et entreprises.",
+    "solutions": [
+      "Portails coulissants et battants",
+      "Portes automatiques et barrières d'accès",
+      "Motorisations pour accès résidentiels et professionnels",
+      "Télécommandes, boutons et commandes murales",
+      "Photocellules et sécurités",
+      "Digicode et contrôle d'accès",
+      "Ouverture avec badge et smartphone",
+      "Réglage des butées et du fonctionnement",
+      "Solutions pour garages, immeubles et entreprises",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du site",
+      "Choix du moteur et des accessoires",
+      "Installation mécanique et électrique",
+      "Câblage des sécurités et commandes",
+      "Réglage des fins de course",
+      "Tests d'ouverture, fermeture et sécurité",
+      "Organisation du câblage et finition propre",
+      "Maintenance préventive et dépannage",
+      "Ajout ou remplacement d'accessoires",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Confort d'utilisation au quotidien",
+      "Meilleure sécurité des accès",
+      "Gain de temps à l'ouverture",
+      "Solution adaptée à votre environnement",
+      "Système évolutif et pratique",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Confort & sécurité",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "domotique": {
+    "n": 11,
+    "title": "Domotique",
+    "page": 12,
+    "tagline": "Pilotez vos équipements intelligemment et simplement.",
+    "features": [
+      "Maison connectée",
+      "Éclairage intelligent",
+      "Scénarios auto",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Modernisez vos espaces grâce à des solutions domotiques pratiques et évolutives. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes connectés pour les maisons, bureaux, commerces et entreprises.",
+    "solutions": [
+      "Éclairage connecté et commande intelligente",
+      "Contrôle des rideaux, volets et prises",
+      "Modules Wi-Fi et automatismes",
+      "Scénarios et programmation horaire",
+      "Commande depuis smartphone",
+      "Capteurs et déclenchements automatiques",
+      "Gestion centralisée des équipements",
+      "Solutions pour confort, sécurité et économie d'énergie",
+      "Intégration avec caméras, alarme et contrôle d'accès",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du besoin",
+      "Choix des équipements adaptés",
+      "Installation et câblage",
+      "Configuration des modules et applications",
+      "Création de scénarios automatiques",
+      "Tests de fonctionnement et de commande",
+      "Optimisation de l'utilisation",
+      "Maintenance préventive et dépannage",
+      "Ajout de nouveaux équipements",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Confort au quotidien",
+      "Pilotage simple à distance",
+      "Automatisation des équipements",
+      "Meilleure gestion de l'énergie",
+      "Solution moderne et évolutive",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Confort & contrôle",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "telephonie-ip": {
+    "n": 12,
+    "title": "Téléphonie IP",
+    "page": 13,
+    "tagline": "Des communications modernes et performantes pour vos équipes.",
+    "features": [
+      "Communication pro",
+      "Postes IP",
+      "Standard central",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Optimisez les communications de votre activité grâce à des solutions de téléphonie IP fiables et modernes. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes de téléphonie pour les bureaux, écoles, commerces et entreprises.",
+    "solutions": [
+      "Téléphones IP de bureau",
+      "Standards téléphoniques IP",
+      "Extensions internes et appels inter-postes",
+      "Transfert, conférence et renvoi d'appel",
+      "Messagerie vocale et gestion des appels",
+      "Postes pour bureaux, accueil et entreprises",
+      "Configuration réseau pour la voix",
+      "Intégration avec interphone et sécurité",
+      "Solutions pour PME, écoles et établissements",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du besoin",
+      "Choix du standard et des postes",
+      "Installation et câblage réseau",
+      "Configuration IP et extensions",
+      "Paramétrage des utilisateurs et profils",
+      "Tests d'appels et de qualité vocale",
+      "Organisation du réseau et finition propre",
+      "Maintenance préventive et dépannage",
+      "Ajout de nouveaux postes",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Communication claire et professionnelle",
+      "Meilleure organisation interne",
+      "Fonctions avancées d'appel",
+      "Solution évolutive selon vos besoins",
+      "Intégration simple au réseau",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Communication & fiabilité",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  },
+  "systemes-caisse": {
+    "n": 13,
+    "title": "Systèmes de caisse",
+    "page": 14,
+    "tagline": "Une solution complète pour encaisser efficacement.",
+    "features": [
+      "Caisse complète",
+      "Vente rapide",
+      "Gestion magasin",
+      "Installation pro",
+      "Maintenance"
+    ],
+    "presentation": "Simplifiez vos opérations de vente grâce à des solutions de caisse complètes et professionnelles. Nous assurons la vente, l'installation, la configuration et la maintenance de systèmes de caisse pour les commerces, cafés, restaurants et entreprises.",
+    "solutions": [
+      "Terminaux de vente tactiles",
+      "Imprimantes thermiques",
+      "Tiroirs-caisses et afficheurs client",
+      "Lecteurs codes-barres et accessoires",
+      "Solutions pour commerces, cafés et restaurants",
+      "Configuration des périphériques",
+      "Organisation du poste de vente",
+      "Solution de caisse complète et pratique",
+      "Installation propre et utilisation simple",
+      "Maintenance et évolution de l'installation"
+    ],
+    "prestations": [
+      "Étude et inspection du besoin",
+      "Choix du terminal et des périphériques",
+      "Installation et branchement complet",
+      "Configuration du poste de caisse",
+      "Tests d'impression et de lecture",
+      "Organisation de l'espace de vente",
+      "Formation de base à l'utilisation",
+      "Maintenance préventive et dépannage",
+      "Ajout ou remplacement d'accessoires",
+      "Assistance technique après installation"
+    ],
+    "avantages": [
+      "Encaissement rapide et fluide",
+      "Poste de vente bien organisé",
+      "Meilleure expérience client",
+      "Solution adaptée à votre activité",
+      "Système évolutif et pratique",
+      "Installation fiable et professionnelle"
+    ],
+    "badges": [
+      "Vente & performance",
+      "Installation soignée",
+      "Expertise professionnelle",
+      "Assistance après-vente",
+      "Maintenance rapide et efficace",
+      "Solutions évolutives"
+    ]
+  }
+}

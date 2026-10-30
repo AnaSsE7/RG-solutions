@@ -1,0 +1,14 @@
+import { serve, newBrowser, newPage, noIntro } from "./helpers.mjs";
+const OUT = process.argv[2] || "/tmp";
+const { srv, url } = await serve();
+const browser = await newBrowser();
+const errors = [];
+const { page } = await newPage(browser, { storage: noIntro, errors });
+await page.goto(url, { waitUntil: "networkidle" });
+await page.mouse.move(3, 3);
+await page.waitForTimeout(2500);
+await page.screenshot({ path: OUT + "/smoke-top.png" });
+await page.screenshot({ path: OUT + "/smoke-full.png", fullPage: true });
+console.log("errors:", errors);
+console.log("gsap:", await page.evaluate(() => !!window.gsap), "lenis:", await page.evaluate(() => document.documentElement.classList.contains("lenis")), "pin:", await page.evaluate(() => document.querySelector("#services").classList.contains("is-pinnable")));
+await browser.close(); srv.close();

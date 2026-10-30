@@ -1,0 +1,24 @@
+{
+  "name": "rg-secure-solutions-site",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "RG Secure Solutions — single-page website (no build step: index.html is the site).",
+  "scripts": {
+    "serve": "npx --yes http-server@14.1.1 -p 8080 -c-1 .",
+    "assets": "node tools/build-assets.mjs",
+    "icons": "node tools/build-icons.mjs",
+    "test": "node tests/run.mjs",
+    "test:fixture": "node tests/extract-appendix.mjs",
+    "screenshots": "node tests/devices.mjs && node tests/tour.mjs && node tests/print.mjs",
+    "record": "node tests/record.mjs"
+  },
+  "devDependencies": {
+    "axe-core": "4.10.3",
+    "gsap": "3.13.0",
+    "lenis": "1.3.11",
+    "lucide-static": "0.469.0",
+    "sharp": "0.34.4",
+    "simple-icons": "13.21.0"
+  }
+}
